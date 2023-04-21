@@ -5,5 +5,9 @@ public class Calculate {
 		int sum = a+b;
 		System.out.println(sum);
 System.out.println("Values: "+a+" "+b);
+System.out.println("Values: "+a+" "+b);
+System.out.println("Values: "+a+" "+b);
+System.out.println("Values: "+a+" "+b);
+System.out.println("Values: "+a+" "+b);
 	}
 }
